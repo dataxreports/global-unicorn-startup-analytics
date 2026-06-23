@@ -2,6 +2,16 @@
 
 ![Dashboard](dashboard/unicorn_dashboard.png)
 
+## Dataset Source
+
+The dataset used in this project was obtained from Kaggle:
+
+**Unicorn Companies Dataset**
+https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset
+
+The dataset contains information on unicorn startups worldwide, including company valuation, industry, country, investors, funding, and year of establishment.
+
+
 ## Project Architecture 
 
 Kaggle Dataset
