@@ -1,5 +1,7 @@
 ## Global Unicorn Startup Analytics (2007–2022)
 
+![Dashboard](dashboard/unicorn_dashboard.png)
+
 ## 1. Project Overview
 
 This project analyzes the global unicorn startup ecosystem between 2007 and 2022. The objective was to understand how unicorn companies are distributed across countries and industries, identify valuation trends, and uncover key patterns in startup growth worldwide.
